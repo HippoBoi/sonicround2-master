@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XD.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sobic0000" x="0" y="0" width="1285" height="725"/>
+	<SubTexture name="sobic0001" x="0" y="0" width="1285" height="725"/>
+	<SubTexture name="sobic0002" x="1285" y="0" width="1285" height="725"/>
+	<SubTexture name="sobic0003" x="2570" y="0" width="1285" height="725"/>
+	<SubTexture name="sobic0004" x="0" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0005" x="1285" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0006" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0007" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0008" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0009" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0010" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0011" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0012" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0013" x="2570" y="725" width="1285" height="725"/>
+	<SubTexture name="sobic0014" x="0" y="1450" width="1285" height="725"/>
+	<SubTexture name="sobic0015" x="1285" y="1450" width="1285" height="725"/>
+	<SubTexture name="sobic0016" x="2570" y="1450" width="1285" height="725"/>
+	<SubTexture name="sobic0017" x="0" y="2175" width="1285" height="725"/>
+	<SubTexture name="sobic0018" x="1285" y="2175" width="1285" height="725"/>
+	<SubTexture name="sobic0019" x="1285" y="2175" width="1285" height="725"/>
+	<SubTexture name="sobic0020" x="1285" y="2175" width="1285" height="725"/>
+	<SubTexture name="sobic0021" x="1285" y="2175" width="1285" height="725"/>
+	<SubTexture name="sobic0022" x="1285" y="2175" width="1285" height="725"/>
+	<SubTexture name="sobic0023" x="1285" y="2175" width="1285" height="725"/>
+	<SubTexture name="sobic0024" x="1285" y="2175" width="1285" height="725"/>
+</TextureAtlas>
